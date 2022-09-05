@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div display: flex;>
   <div width="400px" height="400px" bg-color="red">
-    <img height="180em" src="https://lh3.googleusercontent.com/pw/AL9nZEWsBNpl5PRsHtd7E4KZZ2RSqcyPN96oX7KRyEZDiZMMSIft8JAAYl2PIdFK2aCF3l8ND-URkWYDr-I56JeD1rxVgy8ohFapzgi_5bXoo6Ef_u1bsLBS-TQYQ2vmW1d4TJnqrks0AvIPrOxDq4KqpZV_=s544-no?authuser=0">
-  <p>drgd</p>
+    <img height="180em" src="https://github.com/samuelllegal/samuelllegal/blob/main/avatar-frente-social.png">
+  
   </div>
   
   <div>
