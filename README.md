@@ -10,11 +10,10 @@
       </div>
       <div>
     <hr>
-    <img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="mailto:samueldqrodrigues@gmail.com"><img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    <img align="center" alt="Samuel-CSS" src="https://aleen42.github.io/badges/src/pinterest.svg">
-    <img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+    <a href="https://www.linkedin.com/in/samuel-rodriguesit"><img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.pinterest.com/samueldqrodrigues"><img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
     <hr>
   </div>
     </td>
