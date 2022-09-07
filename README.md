@@ -18,7 +18,7 @@
   </div>
     </td>
     <td>
-      <img height="380em" src="https://github.com/samuelllegal/samuelllegal/blob/main/avatar-corpo-social.png"/>
+      <img height="580em" src="https://github.com/samuelllegal/samuelllegal/blob/main/img/avatar-corpo-social.png"/>
     </td>
   </tr>
 </table>
