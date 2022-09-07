@@ -1,21 +1,31 @@
-### Hi there 👋
+<table border="0">
+  <tr>
+    <td>
+      <div>
+      <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
+      <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br><br>
+      <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"<br><br>
+        <p></p>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelllegal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </div>
+      <div>
+    <hr>
+    <a href="mailto:samueldqrodrigues@gmail.com"><img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <a href="https://www.linkedin.com/in/samuel-rodriguesit"><img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.pinterest.com/samueldqrodrigues"><img align="center" alt="Samuel-CSS" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
+    <hr>
+  </div>
+    </td>
+    <td>
+      <img height="380em" src="https://github.com/samuelllegal/samuelllegal/blob/main/avatar-corpo-social.png"/>
+    </td>
+  </tr>
+</table>
 
-<!--
-**samuelllegal/samuelllegal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <a href="https://github.com/samuelllegal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelllegal&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelllegal&layout=compact&langs_count=7&theme=swift"/>
+<div>
+  
+  <div>
+    
+  </div>
 </div>
